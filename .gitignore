@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+playwright-report/
+test-results/
+*.tsbuildinfo
+artifacts/*.png
+artifacts/lighthouse-*.html
+artifacts/lighthouse-*.json
+tmp/
+.vercel/
+*.log
+.DS_Store
+Thumbs.db
