@@ -20,7 +20,7 @@ export const translations = {
     identity: "Mehdi Chmiti",
     role: "Élève ingénieur · 5e année · AI & Data",
     description:
-      "Je conçois des systèmes qui relient données, intelligence artificielle et logiciel. Des pipelines aux agents conversationnels, des idées complexes aux solutions concrètes.",
+      "Je développe des applications associant intelligence artificielle, données et logiciel. À travers mes projets académiques et mes stages en entreprise, j’explore les pipelines de données, le Machine Learning et les assistants conversationnels.",
     explore: "Explorer mes projets",
     scroll: "DÉCOUVRIR LA SUITE",
     based: "BASÉ À CASABLANCA, MAROC",
@@ -145,7 +145,7 @@ export const translations = {
     identity: "Mehdi Chmiti",
     role: "Engineering student · Final year · AI & Data",
     description:
-      "I build systems that connect data, artificial intelligence, and software. From pipelines to conversational agents, turning complex ideas into practical solutions.",
+      "I develop applications combining artificial intelligence, data, and software. Through academic projects and industry internships, I explore data pipelines, machine learning, and conversational assistants.",
     explore: "Explore my projects",
     scroll: "SCROLL TO EXPLORE",
     based: "BASED IN CASABLANCA, MOROCCO",
